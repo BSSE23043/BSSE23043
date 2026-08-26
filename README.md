@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-I am a 6th semester Software Engineering student, curently focused on three things; Web Development, Game Development and Machine Learning
+I am a 7th semester Software Engineering student, curently focused on three things; Web Development, Game Development and Machine Learning
 
-- 🔭 I’m currently working on my semester projects
+- 🔭 I’m currently working on an indie game
 - 🌱 I’m currently learning multiplayer game development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on nothing
+- 🤔 I’m looking for help with nothing
+- 💬 Ask me about anything
+- 📫 How to reach me: my social media accounts are linked with my github profile
+- 😄 Pronouns: guess it
+- ⚡ Fun fact: I am an indie game developer
 
 <!--
 **BSSE23043/BSSE23043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
